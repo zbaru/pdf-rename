@@ -1,0 +1,5 @@
+pymupdf
+pillow
+rapidocr-onnxruntime
+numpy
+pyinstaller
